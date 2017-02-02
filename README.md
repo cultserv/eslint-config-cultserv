@@ -20,14 +20,14 @@ Append project-specific `env` and `globals` params:
 {
   "extends": "dguryev",
   "env": {
-    "angular": true,
     "jquery": true,
     "jasmine": true
   },
   "globals": {
+    "angular": false,
     "moment": false
   }
 }
 ```
 
-That's all!
+That's it!

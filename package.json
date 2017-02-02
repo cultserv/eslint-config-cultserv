@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dguryev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript style guide by Dmitry Guryev",
   "main": "index.js",
   "scripts": {},
