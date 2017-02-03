@@ -1,16 +1,16 @@
-# ESLint Config by Dmitry Guryev
+# ESLint Config by CultServ
 
 Install ESLint and config:
 
 ```bash
-$ npm install eslint eslint-config-dguryev --save-dev
+$ npm install eslint eslint-config-cultserv --save-dev
 ```
 
 Create `.eslintrc` in your project containing:
 
 ```json
 {
-  "extends": "dguryev"
+  "extends": "cultserv"
 }
 ```
 
@@ -18,7 +18,7 @@ Append project-specific `env` and `globals` params:
 
 ```json
 {
-  "extends": "dguryev",
+  "extends": "cultserv",
   "env": {
     "jquery": true,
     "jasmine": true

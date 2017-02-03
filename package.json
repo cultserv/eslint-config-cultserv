@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-dguryev",
+  "name": "eslint-config-cultserv",
   "version": "1.0.1",
-  "description": "JavaScript style guide by Dmitry Guryev",
+  "description": "JavaScript style guide by CultServ",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -10,13 +10,13 @@
     "lint",
     "style guide"
   ],
-  "author": "Dmitry Guryev",
+  "author": "CultServ",
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dmitry-guryev/eslint-config-dguryev.git"
+    "url": "git@github.com:cultserv/eslint-config-cultserv.git"
   }
 }
