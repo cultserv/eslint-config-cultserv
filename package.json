@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cultserv",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "JavaScript style guide by Ponominalu.ru",
   "main": "index.js",
   "scripts": {},
