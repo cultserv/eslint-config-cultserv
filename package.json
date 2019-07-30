@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-cultserv",
   "version": "1.0.1",
-  "description": "JavaScript style guide by CultServ",
+  "description": "JavaScript style guide by Ponominalu.ru",
   "main": "index.js",
   "scripts": {},
   "keywords": [
@@ -10,10 +10,16 @@
     "lint",
     "style guide"
   ],
-  "author": "CultServ",
+  "author": "Ponominalu.ru",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": "6.1.0",
+    "eslint-config-standard": "13.0.1",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-node": "9.1.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-standard": "4.0.0",
+    "eslint-plugin-vue": "5.2.3"
   },
   "repository": {
     "type": "git",

@@ -1,4 +1,4 @@
-# ESLint Config by CultServ
+# ESLint Config by Ponominalu.ru
 
 Install ESLint and config:
 
@@ -11,22 +11,6 @@ Create `.eslintrc` in your project containing:
 ```json
 {
   "extends": "cultserv"
-}
-```
-
-Append project-specific `env` and `globals` params:
-
-```json
-{
-  "extends": "cultserv",
-  "env": {
-    "jquery": true,
-    "jasmine": true
-  },
-  "globals": {
-    "angular": false,
-    "moment": false
-  }
 }
 ```
 
