@@ -3,10 +3,16 @@
 Install ESLint and config:
 
 ```bash
-$ npm install eslint eslint-config-cultserv --save-dev
+npm i -D eslint \ 
+eslint-config-standard \
+eslint-plugin-import  \
+eslint-plugin-node \ 
+eslint-plugin-promise 
+eslint-plugin-vue \ 
+git+https://github.com/cultserv/eslint-config-cultserv.git
 ```
 
-Create `.eslintrc` in your project containing:
+`.eslintrc` have to includes:
 
 ```json
 {
