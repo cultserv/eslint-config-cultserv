@@ -9,14 +9,14 @@ eslint-plugin-import  \
 eslint-plugin-node \ 
 eslint-plugin-promise 
 eslint-plugin-vue \ 
-git+https://github.com/cultserv/eslint-config-cultserv.git
+eslint-config-ponominalu
 ```
 
 `.eslintrc` have to includes:
 
 ```json
 {
-  "extends": "cultserv"
+  "extends": "ponominalu"
 }
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-cultserv",
+  "name": "eslint-config-ponominalu",
   "version": "2.0.0",
   "description": "JavaScript style guide by Ponominalu.ru",
   "main": "index.js",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cultserv/eslint-config-cultserv.git"
+    "url": "git@github.com:cultserv/eslint-config-ponominalu.git"
   }
 }
