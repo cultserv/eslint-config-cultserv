@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ponominalu",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "JavaScript style guide by Ponominalu.ru",
   "main": "index.js",
   "scripts": {},
